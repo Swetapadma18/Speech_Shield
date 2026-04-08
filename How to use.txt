@@ -1,0 +1,13 @@
+1. To install all the required libraries use the given command:
+    pip install -r requirements.txt
+
+2. To run the project, go to app folder, and run the app.py file. Use the given command:
+    cd app
+    python app.py
+
+3. You can also run the code using the command:
+    python app/app.py
+
+NOTE
+1. Use either 2nd method or 3rd method to run the project.
+2. Always check the directory path of the terminal before running the project.
